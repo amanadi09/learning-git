@@ -3,3 +3,6 @@ let's make changes to git
 
 for staging - git add .
 for commit - git commit -m "message"
+
+using - git log , we can check commit history
+using - git status , we can chheck the status
