@@ -6,3 +6,21 @@ for commit - git commit -m "message"
 
 using - git log , we can check commit history
 using - git status , we can chheck the status
+
+branches ----
+list all branch - git branch
+to create new branch - git branch branchname(eg: features)
+to switch branch - git switch branchname(eg: features) , to go to previous branch - git switch -
+to delete branch - git branch -d branchname(eg: features)
+
+to check if git is connected -
+git remote -v
+
+to rename branch - git branch -M main , to check - git branch
+
+to push local chnges to github - git push -u origin main , for future chanegs no need to use -use
+
+git pull origin main
+git fetch //gives preview
+git merge // merge every changes
+git pull //directly merge everything without any preview
