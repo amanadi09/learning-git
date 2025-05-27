@@ -1,1 +1,5 @@
 Hello, World!
+let's make changes to git
+
+for staging - git add .
+for commit - git commit -m "message"
